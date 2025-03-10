@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SanthoshMoolemane/foodieDelight/static/css/main.ff02f4b5.css",
+    "main.js": "/SanthoshMoolemane/foodieDelight/static/js/main.af74fd40.js",
+    "static/js/453.dda2186f.chunk.js": "/SanthoshMoolemane/foodieDelight/static/js/453.dda2186f.chunk.js",
+    "index.html": "/SanthoshMoolemane/foodieDelight/index.html",
+    "main.ff02f4b5.css.map": "/SanthoshMoolemane/foodieDelight/static/css/main.ff02f4b5.css.map",
+    "main.af74fd40.js.map": "/SanthoshMoolemane/foodieDelight/static/js/main.af74fd40.js.map",
+    "453.dda2186f.chunk.js.map": "/SanthoshMoolemane/foodieDelight/static/js/453.dda2186f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.af74fd40.js"
+  ]
+}
