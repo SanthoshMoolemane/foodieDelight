@@ -17,7 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --coverage",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -40,8 +42,10 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^6.4.6",
     "@testing-library/react": "^16.0.0",
+    "gh-pages": "^6.3.0",
     "jest": "^29.7.0",
     "jest-fetch-mock": "^3.0.3",
     "prettier": "^3.3.3"
-  }
+  },
+  "homepage": "https://github.com/SanthoshMoolemane/foodieDelight"
 }

@@ -56,7 +56,7 @@ const HomePage = () => {
 
   return (
     <Container className="p-3">
-      <h1 className="mb-3 pt-5">FoodieDelight</h1>
+      <h1 className="mb-3 pt-5 flex text-center">Foodie Delight</h1>
       <RestaurantForm
         onSubmit={handleAddRestaurant}
         initialData={editingRestaurant}
