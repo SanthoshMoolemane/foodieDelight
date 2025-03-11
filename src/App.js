@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
     return (
-        <Router>
+        <Router basename="/foodieDelight">
             <Routes>
                 <Route path="/" element={<HomePage />} />
             </Routes>
